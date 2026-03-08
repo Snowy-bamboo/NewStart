@@ -1,0 +1,38 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DQ001",
+                "DQ004",
+                "DX104",
+                "DX107"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DQ001",
+                "DQ004",
+                "DX104",
+                "DX107"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "time": "2025\u5e743\u67085\u65e521\u70b942\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\u5e26\u7ebf\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

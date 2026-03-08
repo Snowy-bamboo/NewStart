@@ -1,0 +1,34 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "PH002",
+                "PX002"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "PH002",
+                "PX002"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "time": "2024\u5e749\u670821\u65e521\u70b94\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u5b59\u5b87\u8fb0",
+        "notes": "\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "EM31Pro + \u65e5\u73e5\u955c",
+            "inside": [
+                "TJ004",
+                "PS005"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "DX111",
+                "PB005",
+                "ZX027"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "EM31Pro + \u65e5\u73e5\u955c",
+            "inside": [
+                "TJ004",
+                "PS005"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "DX111",
+                "PB005",
+                "ZX027"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u89c2\u6d4b\u592a\u9633",
+        "time": "2024\u5e743\u670811\u65e513\u70b99\u5206",
+        "place": "\u7406\u4e8c\u95e8\u53e3",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\u4f7f\u7528ASI678MC\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

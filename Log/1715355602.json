@@ -1,0 +1,184 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "EM31Pro + \u5927\u9ed1",
+            "inside": [
+                "TJ003",
+                "PS005"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "\u632f\u65fa\u5929\u6587\u76d2\u5b50",
+            "inside": [
+                "DQ002",
+                "DX109"
+            ]
+        },
+        {
+            "code": "FakeQZ3",
+            "name": "Smart EQ*",
+            "inside": [
+                "DQ003",
+                "PS503"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "DK001",
+                "DX107",
+                "DX301",
+                "DX302",
+                "DX303",
+                "DX403",
+                "PB005",
+                "PH001",
+                "TJ507",
+                "XJ003",
+                "XJ004"
+            ]
+        },
+        {
+            "code": "QZ504",
+            "name": "Smart EQ\u7bb1*",
+            "inside": [
+                "CY503",
+                "PB503",
+                "PF503",
+                "PP502"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "FakeQZ4",
+            "name": "\u6742\u9879",
+            "inside": [
+                "DX305"
+            ]
+        },
+        {
+            "code": "FakeQZ5",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "PP009"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "EM31Pro + \u5927\u9ed1",
+            "inside": [
+                "TJ003",
+                "PS005"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u632f\u65fa\u5929\u6587\u76d2\u5b50",
+            "inside": [
+                "DQ002",
+                "DX109"
+            ]
+        },
+        {
+            "code": "",
+            "name": "Smart EQ*",
+            "inside": [
+                "DQ003",
+                "PS503"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "DK001",
+                "DX107",
+                "DX301",
+                "DX302",
+                "DX303",
+                "DX403",
+                "PB005",
+                "PH001",
+                "TJ507",
+                "XJ003",
+                "XJ004"
+            ]
+        },
+        {
+            "code": "QZ504",
+            "name": "Smart EQ\u7bb1*",
+            "inside": [
+                "CY503",
+                "PB503",
+                "PF503",
+                "PP502"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u6742\u9879",
+            "inside": [
+                "DX305"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "PP009"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u5916\u51fa\uff08\u6444\u5f71\uff09",
+        "time": "2024\u5e745\u670810\u65e523\u70b938\u5206",
+        "place": "\u4e4c\u5170\u54c8\u8fbe",
+        "person": "\u6ce2\u97f3",
+        "notes": "\u989d\u5916\u5e26\u4e86114514\u6839\u7ebf\u6ca1\u626b\uff0c\u5e26\u4e86\u4e2a\u8f6c\u63a5\u73af\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 6
+    }
+}

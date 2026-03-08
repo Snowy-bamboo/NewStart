@@ -1,0 +1,48 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ010",
+                "SJ012"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX021"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ010",
+                "SJ012"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX021"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u501f\u51fa",
+        "time": "2024\u5e747\u67084\u65e522\u70b947\u5206",
+        "place": "",
+        "person": "\u6768\u73fa\u4e2d",
+        "notes": "\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 3
+    }
+}

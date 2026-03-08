@@ -1,0 +1,38 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DX108",
+                "DX403",
+                "XJ004"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DX108",
+                "DX403",
+                "XJ004"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "AIRBUS\u4e2a\u4eba\u89c2\u6d4b",
+        "time": "2024\u5e746\u67088\u65e518\u70b918\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "AIRBUS",
+        "notes": "\u4f7f\u7528\u4e2a\u4eba\u7684\u5c0f\u9ed1and\n\u86d0\u86d0533\u548c\u7ebf\n\u6709\u8c03\u7126\u5ea7\u7684\u5bfc\u661f\u955c\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

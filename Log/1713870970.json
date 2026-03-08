@@ -1,0 +1,108 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DC003"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "DX110",
+                "PB003",
+                "PH002",
+                "PH004",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ011"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DC003"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "DX110",
+                "PB003",
+                "PH002",
+                "PH004",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ011"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2\uff08\u5730\u7a7a\u6d3b\u52a8\uff09",
+        "time": "2024\u5e744\u670823\u65e519\u70b915\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 3
+    }
+}

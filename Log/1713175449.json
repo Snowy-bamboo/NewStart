@@ -1,0 +1,106 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "AVX",
+            "inside": [
+                "PP005",
+                "DQ003",
+                "PS002",
+                "PF003"
+            ]
+        },
+        {
+            "code": "QZ003",
+            "name": "AVX\u7bb1",
+            "inside": [
+                "CY002",
+                "DX105",
+                "PB002"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DQ001",
+                "DQ002"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "AVX",
+            "inside": [
+                "PP005",
+                "DQ003",
+                "PS002",
+                "PF003"
+            ]
+        },
+        {
+            "code": "QZ003",
+            "name": "AVX\u7bb1",
+            "inside": [
+                "CY002",
+                "DX105",
+                "PB002"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DQ001",
+                "DQ002"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u95ea\u51fb\u5f57\u661f",
+        "time": "2024\u5e744\u670815\u65e518\u70b93\u5206",
+        "place": "\u8e4a\u5f84\u576a",
+        "person": "\u5b59",
+        "notes": "\u95ea\u51fb\u5f57\u661f\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 3
+    }
+}

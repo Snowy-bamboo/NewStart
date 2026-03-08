@@ -1,0 +1,178 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "AVX* + \u5927\u9ed1",
+            "inside": [
+                "TJ003",
+                "PP501",
+                "PP006",
+                "DQ004",
+                "DX104",
+                "PF501",
+                "PS002",
+                "PX002",
+                "PH004"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DC006",
+                "DX107"
+            ]
+        },
+        {
+            "code": "QZ501",
+            "name": "AVX\u7bb1*",
+            "inside": [
+                "CY502",
+                "PB502"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "PH002",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "FakeQZ3",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ008",
+                "SJ009",
+                "SJ010",
+                "SJ011",
+                "SJ012",
+                "SJ013",
+                "SJ100"
+            ]
+        },
+        {
+            "code": "FakeQZ4",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "AVX* + \u5927\u9ed1",
+            "inside": [
+                "TJ003",
+                "PP501",
+                "PP006",
+                "DQ004",
+                "DX104",
+                "PF501",
+                "PS002",
+                "PX002",
+                "PH004"
+            ]
+        },
+        {
+            "code": "",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DC006",
+                "DX107"
+            ]
+        },
+        {
+            "code": "QZ501",
+            "name": "AVX\u7bb1*",
+            "inside": [
+                "CY502",
+                "PB502"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "PH002",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ008",
+                "SJ009",
+                "SJ010",
+                "SJ011",
+                "SJ012",
+                "SJ013",
+                "SJ100"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "time": "2024\u5e7410\u670815\u65e516\u70b954\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u5f20\u5f1b",
+        "notes": "\u5e26\u4e86\u4e00\u4e2a\u65b0\u7684\u6ca1\u7801\u7684\u8f6c\u63a5\u73af\u3002\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 5
+    }
+}

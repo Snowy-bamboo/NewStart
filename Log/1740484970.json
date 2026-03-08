@@ -1,0 +1,216 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DX108"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "CEM70G + C11HD",
+            "inside": [
+                "TJ001",
+                "PP001",
+                "PP002",
+                "DC003",
+                "DX103",
+                "PS001",
+                "PF001"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "MJ016",
+                "PH008",
+                "PX001",
+                "ZX021",
+                "ZX025"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "PH002",
+                "PH004",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "QZ002",
+            "name": "CEM70G\u7bb1",
+            "inside": [
+                "CY001",
+                "DX204",
+                "DX208",
+                "DX209",
+                "DX403",
+                "PB001"
+            ]
+        },
+        {
+            "code": "FakeQZ3",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ009",
+                "SJ010",
+                "SJ011",
+                "SJ013"
+            ]
+        },
+        {
+            "code": "FakeQZ4",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX010",
+                "ZX011"
+            ]
+        },
+        {
+            "code": "FakeQZ5",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DQ001"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "Dob12",
+            "inside": [
+                "TJ002",
+                "DX108"
+            ]
+        },
+        {
+            "code": "",
+            "name": "CEM70G + C11HD",
+            "inside": [
+                "TJ001",
+                "PP001",
+                "PP002",
+                "DC003",
+                "DX103",
+                "PS001",
+                "PF001"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "MJ016",
+                "PH008",
+                "PX001",
+                "ZX021",
+                "ZX025"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "PH002",
+                "PH004",
+                "PX003",
+                "ZX004",
+                "ZX005",
+                "ZX020"
+            ]
+        },
+        {
+            "code": "QZ002",
+            "name": "CEM70G\u7bb1",
+            "inside": [
+                "CY001",
+                "DX204",
+                "DX208",
+                "DX209",
+                "DX403",
+                "PB001"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ009",
+                "SJ010",
+                "SJ011",
+                "SJ013"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX010",
+                "ZX011"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DQ001"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "time": "2025\u5e742\u670825\u65e520\u70b92\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u5b59",
+        "notes": "\u9ed1\u8272\u9a6c\u5361\u9f99\u5728\u5730\u4e0b\u5ba4\u4e0d\u89c1\u4e86\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 6
+    }
+}

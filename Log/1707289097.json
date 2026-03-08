@@ -1,0 +1,44 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ007",
+                "MJ017",
+                "MJ501",
+                "MJ502"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u5916\u51fa",
+        "time": "2024\u5e742\u67087\u65e514\u70b957\u5206",
+        "place": "\u5b59\u6805\u5b50\u6751",
+        "person": "\u8001\u5927\u5371",
+        "notes": "\u53d1\u73b0bug\uff0c\u91cd\u65b0\u6d4b\u8bd5\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 1
+    }
+}

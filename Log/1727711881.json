@@ -1,0 +1,68 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ010",
+                "SJ011",
+                "SJ012",
+                "SJ013",
+                "SJ100"
+            ]
+        },
+        {
+            "code": "FakeQZ2",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX023"
+            ]
+        },
+        {
+            "code": "FakeQZ3",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u53cc\u7b52",
+            "inside": [
+                "SJ010",
+                "SJ011",
+                "SJ012",
+                "SJ013",
+                "SJ100"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX023"
+            ]
+        },
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u5c0f\u5916\u89c2",
+        "time": "2024\u5e749\u670830\u65e523\u70b956\u5206",
+        "place": "\u8d75\u5bb6\u6d3c",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\u8d75\u5bb6\u6d3c\u5f57\u661f\u5c0f\u89c2\n\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 4
+    }
+}

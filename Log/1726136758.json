@@ -1,0 +1,36 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DX404",
+                "PH002"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201",
+                "DX404",
+                "PH002"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2\u9884\u51fa\u8f66",
+        "time": "2024\u5e749\u670812\u65e518\u70b924\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\u5148\u62ff\u4e86DJI\u7535\u6e90\uff0c12v\u9002\u914d\u5668\u548c2\u5bf8\u5ef6\u957f\u7b52\uff0c\u4ee5\u53ca\u4e00\u4e2a\u65e0\u7801\u4fe1\u8fbe28mm\u7834\u76ee\u955c\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

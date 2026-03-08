@@ -1,0 +1,34 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX010",
+                "ZX011"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u6742\u9879",
+            "inside": [
+                "ZX010",
+                "ZX011"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f1a\u5e86",
+        "time": "2024\u5e744\u670825\u65e520\u70b928\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u8d35\u4f1a",
+        "notes": "\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}

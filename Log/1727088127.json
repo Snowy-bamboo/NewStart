@@ -1,0 +1,32 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "FakeQZ1",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "\u591a\u4f59\u5668\u6750",
+            "inside": [
+                "DC201"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u79c1\u89c2",
+        "time": "2024\u5e749\u670823\u65e518\u70b941\u5206",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "\u65b9\u632f\u6797",
+        "notes": "\u4f7f\u7528\u4e00\u4e2a\u7535\u6e90\n"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 2
+    }
+}
