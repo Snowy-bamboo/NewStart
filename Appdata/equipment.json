@@ -1,0 +1,286 @@
+[
+	{"code":"TJ001","name":"C11HD","ness":["CY","MJ","PH1.25","PXC11HD","2天顶镜"],"TJ_information":{"nessCYmess":12.6,"nessPPmess":15}},
+	{"code":"TJ002","name":"Dob12","ness":["MJ","PH1.25","PH2","PX","PBDob","ZX光轴"],"warning":["检查六个螺丝是否拧紧"],"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},"DC_information":{"EQPort":"5521"}},
+	{"code":"TJ003","name":"大黑","ness":["CY","MJ","PH1.25","PH2","PX"],"TJ_information":{"nessCYmess":9.5,"nessPPmess":10}},
+	{"code":"TJ004","name":"日珥镜","ness":["CY","MJ"],"TJ_information":{"nessCYmess":3.5,"nessPPmess":2}},
+	{"code":"TJ005","name":"缺配件小黑","ness":["CY","MJ","PH1.25","PH2","PX"],"warning":["缺配件，不能使用"],"TJ_information":{"nessCYmess":6,"nessPPmess":5}},
+	{"code":"TJ006","name":"10寸煤气罐","ness":["CY","MJ","PH1.25"],"warning":["MJ014在屁股上"],"TJ_information":{"nessCYmess":11,"nessPPmess":10}},
+	{"code":"TJ008","name":"APO","ness":["CY","MJ","PH1.25","2天顶镜"],"TJ_information":{"nessCYmess":13.5,"nessPPmess":15}},
+	{"code":"TJ501","name":"C8","ness":["CY","MJ","PH1.25","PH2"],"TJ_information":{"nessCYmess":7.7,"nessPPmess":5}},
+	{"code":"TJ502","name":"电调焦小黑","ness":["CY","MJ","PH1.25","PH2","PX"],"warning":["电调焦，不能直接使用"],"TJ_information":{"nessCYmess":6,"nessPPmess":5}},
+	{"code":"TJ503","name":"常用小黑","ness":["CY","MJ","PH1.25","PH2","PX"],"TJ_information":{"nessCYmess":6,"nessPPmess":5}},
+	{"code":"TJ504","name":"星特朗马卡","new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":0}},
+	
+	{"code":"TJ505","type":"PD","name":"裕众导星镜","provide":["PX"],"ness":["XXXJ"]},
+	{"code":"TJ506","type":"PD","name":"cyc导星镜","provide":["PX"],"ness":["XXXJ"]},
+	{"code":"TJ507","type":"PD","name":"2047导星镜","provide":["PX"],"ness":["XXXJ"]},
+
+	{"code":"SJ002","name":"悦目842ED","provide":["SJ"],"warning":["失踪"],"disable":1},
+	{"code":"SJ003","name":"朗锋HG1050","provide":["SJ"]},
+	{"code":"SJ004","name":"朗锋金刚845","provide":["SJ"]},
+	{"code":"SJ005","name":"星特朗840","provide":["SJ"]},
+	{"code":"SJ006","name":"COMET750","provide":["SJ"]},
+	{"code":"SJ007","type":"lj","name":"令人沮丧的垃圾双筒","warning":["大破：被波音（杨嘉昊）以玩为目的拆除"],"disable":1},
+	{"code":"SJ008","name":"胜途中空842ED","provide":["SJ"],"warning":["失踪"],"disable":1},
+	{"code":"SJ009","name":"胜途平场8.5x42ED","provide":["SJ"]},
+	{"code":"SJ010","name":"裕众天虎842马卡龙(蓝)","provide":["SJ"]},
+	{"code":"SJ011","name":"裕众天虎842马卡龙(绿)","provide":["SJ"]},
+	{"code":"SJ012","name":"裕众天虎842马卡龙(黑)","provide":["SJ"]},
+	{"code":"SJ013","name":"裕众天虎842马卡龙(粉)","provide":["SJ"]},
+	{"code":"SJ501","name":"裕众刀锋842","provide":["SJ"]},
+	{"code":"SJ502","name":"森林人842","provide":["SJ"],"warning":["失踪"],"disable":1},
+	{"code":"SJ503","name":"COMET2080","provide":["SJ"]},
+	{"code":"SJ100","name":"裕众旗云APO","provide":["SJ"]},
+	
+	{
+		"code":"CY001","name":"CEM70G","provide":["CY"],"ness":["PBCEM70G","PSCEM70G","PFCEM70G","21to25"],"warning":["记得带Windows系统电脑"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":31},
+		"PP_information":{"PPType":"PPCEM70G","default_PPmess":15,"Decay_PPmess":0},
+		"DC_information":{"EQPort":"5521"}
+	},
+	{
+		"code":"CY002","name":"AVX","provide":["CY"],"ness":["PBAVX","PSAVX","PF"],"warning":["记得电线带锁"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":13.5},
+		"DC_information":{"EQPort":"AVX"}
+	},
+	{
+		"code":"CY004","type":"CY_camera","name":"SkyGuider星野赤道仪","ness":["PScamera"],
+		"new_package":{"TJ_judge":0,"PP_judge":1,"DC_judge":1},
+		"PP_information":{"PPType":"PP_camera","nessPPmess":2},
+		"DC_information":{"EQPort":"5521"}
+	},
+	{
+		"code":"CY005","name":"EM31Pro","provide":["CY"],"ness":["PBEM31Pro","PSEM31Pro"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":20},
+		"PP_information":{"PPType":"PPEM31Pro","default_PPmess":0,"Decay_PPmess":10},
+		"DC_information":{"EQPort":"5521"}
+	},
+	{
+		"code":"CY501","name":"NEQ6","provide":["CY"],"ness":["PBNEQ6","PSNEQ6","PF"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":18},
+		"DC_information":{"EQPort":"5521"}
+	},
+	{
+		"code":"CY502","name":"AVX","provide":["CY"],"ness":["PBAVX","PSAVX","PF"],"warning":["记得电线带锁","该赤道仪手柄在C8箱中"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":13.5},
+		"DC_information":{"EQPort":"AVX"}
+	},
+	{
+		"code":"CY503","name":"Smart EQ","provide":["CY"],"ness":["PBSmartEQ","PSSmartEQ","PFSmartEQ"],
+		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
+		"TJ_information":{"CY_maxprovidmess":5},
+		"PP_information":{"PPType":"PPSmartEQ","default_PPmess":2},
+		"DC_information":{"EQPort":"5521"}
+	},
+
+
+	{"code":"MJ001","name":"120度9mm目镜","provide":["MJ"]},
+	{"code":"MJ002","name":"82度24mm目镜","provide":["MJ"]},
+	{"code":"MJ003","name":"60度50mm目镜","provide":["MJ"]},
+	{"code":"MJ005","name":"PL8mm目镜","provide":["MJ"]},
+	{"code":"MJ006","name":"变焦目镜","provide":["MJ"]},
+	{"code":"MJ007","name":"PL6mm目镜","provide":["MJ"]},
+	{"code":"MJ008","name":"TMB3.2mm目镜","provide":["MJ"]},
+	{"code":"MJ009","name":"PL10mm目镜","provide":["MJ"]},
+	{"code":"MJ010","name":"PL25mm目镜","provide":["MJ"]},
+	{"code":"MJ011","name":"K28mm目镜","provide":["MJ"]},
+	{"code":"MJ012","name":"K5mm目镜","provide":["MJ"]},
+	{"code":"MJ013","name":"PL18mm目镜","provide":["MJ"]},
+	{"code":"MJ014","name":"2寸天顶镜","provide":["2天顶镜"]},
+	{"code":"MJ015","name":"1.25寸天顶镜","provide":["1.25天顶镜"]},
+	{"code":"MJ016","name":"2寸天顶镜","provide":["2天顶镜"]},
+	{"code":"MJ017","name":"UF30mm目镜","provide":["MJ"]},
+	{"code":"MJ018","name":"减焦镜","type":"ZX"},
+	{"code":"MJ019","name":"HFW7.7-15.4mm变焦目镜","provide":["MJ"]},
+	{"code":"MJ020","name":"专业减焦平场镜","type":"ZX"},
+	{"code":"MJ021","name":"ZWO振旺ADC消色差镜","type":"ZX"},
+	{"code":"MJ022","name":"APO用2寸天顶镜","provide":["2天顶镜"]},
+	{"code":"MJ501","name":"82度14mm目镜","provide":["MJ"]},
+	{"code":"MJ502","name":"2倍巴洛镜","provide":["巴洛镜"]},
+
+	{"code":"PB001","name":"CEM70G手柄","provide":["PBCEM70G"]},
+	{"code":"PB002","name":"AVX手柄","provide":["PBAVX"]},
+	{"code":"PB003","name":"Dob手柄","provide":["PBDob"],"warning":["检查手柄线是否携带"]},
+	{"code":"PB005","name":"EM31Pro手柄","provide":["PBEM31Pro"]},
+	{"code":"PB501","name":"NEQ6手柄","provide":["PBNEQ6"]},
+	{"code":"PB502","name":"AVX手柄","provide":["PBAVX"]},
+	{"code":"PB503","name":"SmartEQ手柄","provide":["PBSmartEQ"]},
+	
+	
+	
+	{"code":"PF001","name":"附件盘(CEM70G专用)","provide":["PFCEM70G"]},
+	{"code":"PF002","name":"附件盘(W1)","provide":["PF"]},
+	{"code":"PF003","name":"附件盘(W2)","provide":["PF"]},
+	{"code":"PF004","name":"附件盘(B1)","provide":["PF"]},
+	{"code":"PF501","name":"附件盘(B2)","provide":["PF"]},
+	{"code":"PF503","name":"SmartEQ附件盘","provide":["PFSmartEQ"]},
+	
+	{"code":"PH001","name":"两寸延长筒","provide":["PH2"]},
+	{"code":"PH002","name":"两寸延长筒","provide":["PH2"]},
+	{"code":"PH003","name":"两寸转1.25寸转接环","provide":["PH1.25"]},
+	{"code":"PH004","name":"两寸转1.25寸转接环","provide":["PH1.25"]},
+	{"code":"PH005","name":"两寸转1.25寸转接环","provide":["PH1.25"]},
+	{"code":"PH006","name":"1.25寸转佳能转接环"},
+	{"code":"PH007","name":"两寸转M48转接环"},
+	{"code":"PH008","name":"两寸转1.25寸转接环","provide":["PH1.25"]},
+	{"code":"PH009","name":"两寸转1.25寸转接环","provide":["PH1.25"]},
+	{"code":"PH010","name":"新两寸延长筒","provide":["PH2"]},
+	{"code":"PH011","name":"新两寸延长筒","provide":["PH2"]},
+	{"code":"PH501","name":"Nikon Z Mount转接环","type":"PH_Nikon_ZMount"},
+
+	{"code":"PL001","name":"1.25寸月亮滤镜"},
+	{"code":"PL002","name":"1.25寸月亮滤镜"},
+	{"code":"PL003","name":"2寸月亮滤镜"},
+	{"code":"PL004","name":"滤镜组"},
+	{"code":"PL005","name":"2寸UHC滤镜"},
+	{"code":"PL006","name":"2寸OIII滤镜"},
+	{"code":"PL007","name":"赫歇尔太阳滤镜"},
+	
+	{"code":"PP001","name":"10kgCEM70G平衡锤","PP_information":{"Mess":10,"PPType":"PPCEM70G"}},
+	{"code":"PP002","name":"5kgCEM70G平衡锤","PP_information":{"PPType":"PPCEM70G"}},
+	{"code":"PP003","name":"5kg平衡锤"},
+	{"code":"PP004","name":"5kg平衡锤"},
+	{"code":"PP005","name":"5kg平衡锤"},
+	{"code":"PP006","name":"5kg平衡锤"},
+	{"code":"PP007","name":"5kg平衡锤"},
+	{"code":"PP008","name":"2kg平衡锤(星野专用)","PP_information":{"Mess":2,"PPType":"PP_camera"}},
+	{"code":"PP009","name":"5kgEM31Pro平衡锤","PP_information":{"PPType":"PPEM31Pro"}},
+	{"code":"PP501","name":"5kg平衡锤"},
+	{"code":"PP502","name":"1kgSmartEQ平衡锤","PP_information":{"Mess":2,"PPType":"PPSmartEQ"}},
+	
+	
+	
+	{"code":"PX001","name":"寻星镜(适用于C11HD)","provide":["PXC11HD"]},
+	{"code":"PX002","name":"寻星镜","provide":["PX"]},
+	{"code":"PX003","name":"寻星镜","provide":["PX"]},
+	{"code":"PX004","name":"寻星镜","provide":["PX"]},
+	{"code":"PX005","name":"寻星镜","provide":["PX"]},
+	
+	{"code":"PS001","name":"三脚架(适用于CEM70G)","provide":["PSCEM70G"]},
+	{"code":"PS002","name":"三脚架(适用于AVX)","provide":["PSAVX"]},
+	{"code":"PS004","name":"三脚架(适用于星野赤道仪)","provide":["PScamera"]},
+	{"code":"PS005","name":"三脚架(适用于EM31Pro)","provide":["PSEM31Pro"]},
+	{"code":"PS501","name":"三脚架(适用于NEQ6)","provide":["PSNEQ6"]},
+	{"code":"PS502","name":"三脚架(适用于AVX)","provide":["PSAVX"]},
+	{"code":"PS503","name":"三脚架(适用于SmartEQ)","provide":["PSSmartEQ"]},
+	
+	{"code":"DC001","name":"白色20000mAh电池","warning":["报废"],"DC_information":{"DCPort":"5521"},"disable":1},
+	{"code":"DC002","name":"白色20000mAh电池","warning":["灭失"],"DC_information":{"DCPort":"5521"},"disable":1},
+	{"code":"DC003","name":"白色20000mAh电池","warning":["检查电池电量"],"DC_information":{"DCPort":"5521"},"disable":1},
+	{"code":"DC101","name":"蓝色10300mAh电池","warning":["检查电池电量","该电源公头为5525"],"DC_information":{"DCPort":"5525"}},
+	{"code":"DC004","name":"黑色8节电池盒","warning":["检查电池电量"],"DC_information":{"DCPort":"5521"}},
+	{"code":"DC005","name":"黑色8节电池盒","warning":["检查电池电量"],"DC_information":{"DCPort":"5521"}},
+	{"code":"DC006","name":"白色20000mAh电池","warning":["检查电池电量"],"DC_information":{"DCPort":"5521"}},
+
+	{"code":"DC201","type":"AncestorDC","name":"DJI Power 500","warning":["检查电池电量"]},
+
+	{"code":"DQ001","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ002","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ003","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ004","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ005","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ006","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ007","type":"DC","name":"5521，12V充电器","DC_information":{"DCPort":"5521"}},
+	{"code":"DQ101","type":"DC","name":"5525，15V充电器","DC_information":{"DCPort":"5525"},"disable":1},
+
+
+	{"code":"DX002","name":"AtoAUSB线","type":"ZX"},
+	
+	{"code":"DX102","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX103","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX104","name":"DC线带锁","DC_information":{"EQPort":"AVX","DCPort":"5521"}},
+	{"code":"DX105","name":"DC线带锁","DC_information":{"EQPort":"AVX","DCPort":"5521"}},
+	{"code":"DX106","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX107","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX108","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX109","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX110","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+	{"code":"DX111","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
+
+	{"code":"DX201","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX202","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX203","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX204","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX205","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX208","name":"DC转接头","type":"ZX","provide":["21to25"]},
+	{"code":"DX209","name":"DC转接头","type":"ZX","provide":["21to25"]},
+
+
+
+
+	{"code":"DX301","type":"ZX","name":"DC公对公线"},
+	{"code":"DX302","type":"ZX","name":"DC公对公线"},
+	{"code":"DX304","type":"ZX","name":"DC公对公线"},
+	{"code":"DX305","type":"ZX","name":"DC公对公线"},
+	{"code":"DX306","type":"ZX","name":"DC公对公线"},
+	{"code":"DX307","type":"ZX","name":"DC公对公线"},
+	{"code":"DX308","type":"ZX","name":"DC公对公线"},
+	{"code":"DX309","type":"ZX","name":"DC公对公线"},
+	{"code":"DX310","type":"ZX","name":"DC公对公线"},
+	{"code":"DX311","type":"ZX","name":"DC公对公线"},
+
+	{"code":"DX401","type":"DC","name":"USB转DC线","DC_information":{"DCPort":"5521"}},
+	{"code":"DX402","type":"DC","name":"USB转DC线","DC_information":{"DCPort":"5521"}},
+	{"code":"DX403","type":"DC","name":"220V转DC12V适配器","DC_information":{"DCPort":"5521"}},
+	{"code":"DX404","type":"DC","name":"220V转DC12V适配器","DC_information":{"DCPort":"5521"}},
+
+	{
+		"code":"DK001","type":"AstorBox","name":"振旺天文盒子",
+		"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},
+		"DC_information":{"EQPort":"5521"}
+	},
+
+	{"code":"ZX001","name":"Laser-303SY刻字PKUYAS指星笔","provide":["指星笔"],"warning":["已封存"],"disable":1},
+	{"code":"ZX002","name":"钥匙还在的指星笔","provide":["指星笔"],"warning":["已封存"],"disable":1},
+	{"code":"ZX003","name":"钥匙丢了的指星笔","provide":["指星笔"],"warning":["已封存"],"disable":1},
+	{"code":"ZX004","name":"光轴终结者","provide":["ZX光轴"]},
+	{"code":"ZX005","name":"光轴激光准直器","provide":["ZX光轴"],"warning":["检查电池电量"]},
+	{"code":"ZX006","name":"头灯","provide":["头灯"],"warning":["检查电池电量"]},
+	{"code":"ZX007","name":"MEADE手电","provide":["手电"],"warning":["检查电池电量"],"disable":1},
+	{"code":"ZX008","name":"MEADE手电","provide":["手电"],"warning":["检查电池电量"],"disable":1},
+	{"code":"ZX009","name":"扩音器","warning":["检查电池电量"]},
+	{"code":"ZX010","name":"防潮垫（大）","provide":["防潮垫"]},
+	{"code":"ZX011","name":"防潮垫（大）","provide":["防潮垫"]},
+	{"code":"ZX012","name":"防潮垫（小）","provide":["防潮垫"],"warning":["坏的差不多了"],"disable":1},
+	{"code":"ZX013","name":"除雾带（C11HD用）","warning":["请携带相应的电源和电源线"]},
+	{"code":"ZX014","name":"除雾带（DOB用）","warning":["请携带相应的电源和电源线"]},
+	{"code":"ZX015","name":"除雾带（大黑/C8用）","warning":["请携带相应的电源和电源线"]},
+	{"code":"ZX016","name":"除雾带（副镜用）","warning":["请携带相应的电源和电源线"]},
+	{"code":"ZX017","name":"三轴手机目镜支架","provide":["手机支架"]},
+	{"code":"ZX018","name":"巴德膜（100mm）"},
+	{"code":"ZX019","name":"巴德膜（150mm）"},
+	{"code":"ZX020","name":"绿色的繁析的指星笔","provide":["指星笔"],"warning":["检查电池电量"]},
+	{"code":"ZX021","name":"粉色的繁析的指星笔","provide":["指星笔"],"warning":["检查电池电量"]},
+	{"code":"ZX022","name":"防潮垫（超大）","provide":["防潮垫"]},
+	{"code":"ZX023","name":"防潮垫（超大）","provide":["防潮垫"]},
+	{"code":"ZX024","name":"巴德膜（150mm）"},
+	{"code":"ZX025","name":"手电筒","provide":["手电"],"warning":["检查电池电量"]},
+	{"code":"ZX026","name":"手电筒","provide":["手电"],"warning":["检查电池电量"]},
+	{"code":"ZX027","name":"EM31Pro上装支架"},
+
+
+	{"code":"XJ001","name":"QHY5IIC(彩色)","provide":["XXXJ"]},
+	{"code":"XJ002","name":"QHY5II178M(黑白)","provide":["XXXJ"]},
+	{"code":"XJ003","name":"EOS60D(单反)","provide":["XJ"]},
+	{"code":"XJ004","name":"ASI678MC(彩色)","provide":["XXXJ"]},
+
+
+
+	{"code":"QZ001","name":"目镜箱","inside":["MJ001","MJ002","MJ003","MJ501","MJ502","MJ017","MJ007","PL003","PL005","PL006"]},
+	{"code":"QZ002","name":"CEM70G箱","inside":["CY001","PB001","DX208","DX209","DX204"]},
+	{"code":"QZ003","name":"AVX箱","inside":["CY002","PB002","DX105"]},
+	{"code":"QZ004","name":"Dob配件组合","inside":["PB003","ZX004","ZX005","PH002","PH004","PX003","ZX020"],"warning":["20240229修改"]},
+	{"code":"QZ005","name":"C11HD配件组合","inside":["PX001","MJ016","PH008","ZX021","ZX025"],"warning":["20240229修改"]},
+	{"code":"QZ006","name":"EM31Pro包","inside":["CY005","PB005","TJ506","DK001","TJ506","XJ002"]},
+	{"code":"QZ501","name":"AVX箱","inside":["CY502","PB502","DX206"]},
+	{"code":"QZ503","name":"NEQ6箱","inside":["CY501","PB501"]},
+	{"code":"QZ504","name":"Smart EQ箱","inside":["CY503","PS503","PB503","PP502","PF503"]},
+	{"code":"QZ505","name":"C8箱","inside":["TJ501"]}
+	
+
+]

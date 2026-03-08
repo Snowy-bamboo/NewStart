@@ -1,0 +1,13 @@
+{
+    "Version": "3.1",
+    "Data Save Rule": "3.0",
+    "Display Disable Equipment": 0,
+    "TJ Maxmess Rate": 0.75,
+    "Enable Old Logs": 0,
+    "ImportDataDisplaySoltDetail_Alpha": 0,
+    "ImportDataDisplaySoltDetail_Beta": 1,
+    "AutoCheckStepTwo": 0,
+    "ConfigNeedPassword": 0,
+    "Beta Password": "cmd-299792458",
+    "Config Password": "ZHUKPW"
+}
