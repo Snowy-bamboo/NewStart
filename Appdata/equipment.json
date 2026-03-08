@@ -268,6 +268,8 @@
 	{"code":"XJ002","name":"QHY5II178M(黑白)","provide":["XXXJ"]},
 	{"code":"XJ003","name":"EOS60D(单反)","provide":["XJ"]},
 	{"code":"XJ004","name":"ASI678MC(彩色)","provide":["XXXJ"]},
+	{"code":"XJ501","name":"ASI1600MM(黑白)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3}},
+	{"code":"XJ502","name":"ASI533MC(彩色)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3}},
 
 
 
