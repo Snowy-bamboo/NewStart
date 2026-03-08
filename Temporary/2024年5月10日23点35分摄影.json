@@ -1,0 +1,100 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ003",
+                "PS005",
+                "PP009",
+                "PS503",
+                "DC201",
+                "DQ002",
+                "DQ003"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "PB005",
+                "DX107",
+                "DX301",
+                "DX302",
+                "DX303",
+                "DK001",
+                "DX403",
+                "TJ507",
+                "XJ004",
+                "XJ003",
+                "PH001"
+            ]
+        },
+        {
+            "code": "QZ504",
+            "name": "Smart EQ\u7bb1*",
+            "inside": [
+                "CY503",
+                "PB503",
+                "PP502",
+                "PF503"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ003",
+                "PS005",
+                "PP009",
+                "PS503",
+                "DC201",
+                "DQ002",
+                "DQ003"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "PB005",
+                "DX107",
+                "DX301",
+                "DX302",
+                "DX303",
+                "DK001",
+                "DX403",
+                "TJ507",
+                "XJ004",
+                "XJ003",
+                "PH001"
+            ]
+        },
+        {
+            "code": "QZ504",
+            "name": "Smart EQ\u7bb1*",
+            "inside": [
+                "CY503",
+                "PB503",
+                "PP502",
+                "PF503"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "",
+        "notes": "",
+        "time": "2024\u5e745\u670810\u65e523\u70b935\u5206"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 1
+    }
+}

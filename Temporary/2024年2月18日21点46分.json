@@ -1,0 +1,32 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ001"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ001"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "",
+        "notes": "",
+        "time": "2024\u5e742\u670818\u65e521\u70b946\u5206"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 1
+    }
+}

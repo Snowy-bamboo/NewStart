@@ -1,0 +1,176 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ002",
+                "TJ003",
+                "TJ001",
+                "PP001",
+                "PP002",
+                "PS001",
+                "PF001",
+                "PP501",
+                "PP005",
+                "PS002"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "ZX004",
+                "ZX005",
+                "PH002",
+                "PH004",
+                "PX003",
+                "DX401",
+                "ZX006"
+            ]
+        },
+        {
+            "code": "QZ002",
+            "name": "CEM70G\u7bb1",
+            "inside": [
+                "CY001",
+                "PB001",
+                "DX208",
+                "DX209",
+                "DX204",
+                "DX110"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PX001",
+                "MJ016",
+                "PH009",
+                "MJ018",
+                "DX402",
+                "ZX026"
+            ]
+        },
+        {
+            "code": "QZ003",
+            "name": "AVX\u7bb1",
+            "inside": [
+                "CY002",
+                "PB002",
+                "DX105"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ501",
+                "MJ502",
+                "MJ017",
+                "MJ007",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "TJ002",
+                "TJ003",
+                "TJ001",
+                "PP001",
+                "PP002",
+                "PS001",
+                "PF001",
+                "PP501",
+                "PP005",
+                "PS002"
+            ]
+        },
+        {
+            "code": "QZ004",
+            "name": "Dob\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PB003",
+                "ZX004",
+                "ZX005",
+                "PH002",
+                "PH004",
+                "PX003",
+                "DX401",
+                "ZX006"
+            ]
+        },
+        {
+            "code": "QZ002",
+            "name": "CEM70G\u7bb1",
+            "inside": [
+                "CY001",
+                "PB001",
+                "DX208",
+                "DX209",
+                "DX204",
+                "DX110"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PX001",
+                "MJ016",
+                "PH009",
+                "MJ018",
+                "DX402",
+                "ZX026"
+            ]
+        },
+        {
+            "code": "QZ003",
+            "name": "AVX\u7bb1",
+            "inside": [
+                "CY002",
+                "PB002",
+                "DX105"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ501",
+                "MJ502",
+                "MJ017",
+                "MJ007",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "",
+        "notes": "",
+        "time": "2024\u5e7410\u67083\u65e50\u70b921\u5206"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 1
+    }
+}

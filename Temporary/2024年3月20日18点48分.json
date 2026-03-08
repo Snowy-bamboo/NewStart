@@ -1,0 +1,120 @@
+{
+    "version": "3.0",
+    "pkdata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "DK001",
+                "XJ001",
+                "TJ001"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "PB005",
+                "ZX027",
+                "DX107",
+                "TJ506",
+                "DX301",
+                "DX302",
+                "DX303"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ501",
+                "MJ502",
+                "MJ017",
+                "MJ007",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PX001",
+                "MJ016",
+                "PH008",
+                "ZX021",
+                "ZX025",
+                "DX108"
+            ]
+        }
+    ],
+    "treedata": [
+        {
+            "code": "",
+            "name": "root",
+            "inside": [
+                "DK001",
+                "XJ001",
+                "TJ001"
+            ]
+        },
+        {
+            "code": "QZ006",
+            "name": "EM31Pro\u5305",
+            "inside": [
+                "CY005",
+                "PB005",
+                "ZX027",
+                "DX107",
+                "TJ506",
+                "DX301",
+                "DX302",
+                "DX303"
+            ]
+        },
+        {
+            "code": "QZ001",
+            "name": "\u76ee\u955c\u7bb1",
+            "inside": [
+                "MJ001",
+                "MJ002",
+                "MJ003",
+                "MJ501",
+                "MJ502",
+                "MJ017",
+                "MJ007",
+                "PL003",
+                "PL005",
+                "PL006"
+            ]
+        },
+        {
+            "code": "QZ005",
+            "name": "C11HD\u914d\u4ef6\u7ec4\u5408",
+            "inside": [
+                "PX001",
+                "MJ016",
+                "PH008",
+                "ZX021",
+                "ZX025",
+                "DX108"
+            ]
+        }
+    ],
+    "pushdata": {
+        "type": "\u4f8b\u89c2",
+        "place": "\u9759\u56ed\u8349\u576a",
+        "person": "",
+        "notes": "",
+        "time": "2024\u5e743\u670820\u65e518\u70b948\u5206"
+    },
+    "other": {
+        "currentcodetree": 1,
+        "currentcodefull": 1
+    }
+}
