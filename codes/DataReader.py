@@ -168,7 +168,7 @@ def ReadLog(path:str)-> Union[dict[str,Union[str,list[dict[str,Union[str,list[st
 	with open(path,'r',encoding='utf8') as logfile:
 		log:dict = json.loads(logfile.read())
 	
-	if set(log) == {"version","pkdata","pushdata","treedata","other"} and (log["version"] == Config.SaveRule or Config.En):
+	if set(log) == {"version","pkdata","pushdata","treedata","other"} and (log["version"] == Config.SaveRule or Config.EnableOldLogs):
 		return log
 	else:
 		return False
