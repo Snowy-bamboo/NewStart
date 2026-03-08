@@ -1,3 +1,8 @@
+import os
+
+# Ensure all "./Appdata" and "./Resource" relative paths resolve from NewStart.
+os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from DataReader import jsonDict,Check_NessName,DefaultPPmess
 from UI_alpha import UI_alpha
 from UI_alpha import Pop_StepOneWarningWindow, Pop_StepOneCYWarningWindow, Pop_StepTwoPPMessInputWindow, Pop_FinalConfirmWindow, Pop_LastStepWindow
