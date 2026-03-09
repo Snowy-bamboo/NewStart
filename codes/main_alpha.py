@@ -77,9 +77,10 @@ class Equipment:
 			PP_data = data["PP_information"] if "PP_information" in data else dict()
 			self.PP_type:str = PP_data['PPType'] if "PPType" in PP_data else "PP" #该变量为重锤的种类，如埃顿与信达
 			self.mess:int = PP_data['Mess'] if "Mess" in PP_data else 5 #该变量为重锤的重量
-		#对于电池，录入其接口种类
+		#对于电池，录入其接口种类和最大输出电流(如果有的话，默认为-1代表无限制或未定义)
 		elif self.type == "DC":
 			self.DCPort:str = data["DC_information"]['DCPort'] #该变量为电池的公头
+			self.maxCurrent:float = data["DC_information"]['maxCurrent'] if "maxCurrent" in data["DC_information"] else -1 #该变量为电池的最大输出电流，-1代表未定义，后续代码中-1认为无限制
 		#对于电线，录入其电源端与器材端种类
 		elif self.type == "DX":
 			self.EQPort:str = data["DC_information"]['EQPort'] #该变量为电线的公头
