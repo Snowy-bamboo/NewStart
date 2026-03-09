@@ -188,9 +188,11 @@
 	{"code":"DQ006","type":"DC","name":"5521，12V/5A充电器","DC_information":{"DCPort":"5521","maxCurrent":5.0}},
 	{"code":"DQ101","type":"DC","name":"5525，15V充电器","DC_information":{"DCPort":"5525"},"disable":1},
 
+	{"code":"DX001","name":"","type":"USB","USB_information":{"USB":["A","A"],"specification":"2.0"}},
+	{"code":"DX002","name":"AtoAUSB线","type":"USB"},
+	{"code":"DX003","name":"","type":"USB","USB_information":{"USB":["A","B"],"specification":"3.0"}},
+	{"code":"DX004","name":"","type":"USB","USB_information":{"USB":["A","A"],"specification":"3.0"}},
 
-	{"code":"DX002","name":"AtoAUSB线","type":"ZX"},
-	
 	{"code":"DX102","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
 	{"code":"DX103","name":"DC线","DC_information":{"EQPort":"5521","DCPort":"5521"}},
 	{"code":"DX104","name":"DC线带锁","DC_information":{"EQPort":"AVX","DCPort":"5521"}},
@@ -232,7 +234,25 @@
 	{
 		"code":"DK001","type":"AstorBox","name":"振旺天文盒子",
 		"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},
-		"DC_information":{"EQPort":"5521"}
+		"DC_information":{"EQPort":"5521","DCPort":"5521","maxCurrent":3.0},
+		"USB_information":{"provide":
+		[
+			{"USB":"A","specification":"2.0"},
+			{"USB":"A","specification":"2.0"},
+			{"USB":"A","specification":"3.0"},
+			{"USB":"A","specification":"3.0"}
+			]}
+	},
+	{
+		"code":"DK002","type":"AstorBox","name":"（虚拟器材）带相机的振旺天文盒子",
+		"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},
+		"provide":["XJ"],
+		"DC_information":{"EQPort":"5521"},
+		"USB_information":{"provide":
+		[
+			{"USB":"A","specification":"3.0"},
+			{"USB":"A","specification":"3.0"}
+			]}
 	},
 
 	{"code":"ZX001","name":"Laser-303SY刻字PKUYAS指星笔","provide":["指星笔"],"warning":["已封存"],"disable":1},
