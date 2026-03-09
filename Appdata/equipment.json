@@ -1,6 +1,6 @@
 [
 	{"code":"TJ001","name":"C11HD","ness":["CY","MJ","PH1.25","PXC11HD","2天顶镜"],"TJ_information":{"nessCYmess":12.6,"nessPPmess":15}},
-	{"code":"TJ002","name":"Dob12","ness":["MJ","PH1.25","PH2","PX","PBDob","ZX光轴"],"warning":["检查六个螺丝是否拧紧"],"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},"DC_information":{"EQPort":"5521","nessCurrent":0.6,"maxNessCurrent":1}},
+	{"code":"TJ002","name":"Dob12","ness":["MJ","PH1.25","PH2","PX","PBDob","ZX光轴"],"warning":["检查六个螺丝是否拧紧"],"new_package":{"TJ_judge":0,"PP_judge":0,"DC_judge":1},"DC_information":{"EQPort":"5521","nessCurrent":0.6,"maxNessCurrent":1.0}},
 	{"code":"TJ003","name":"大黑","ness":["CY","MJ","PH1.25","PH2","PX"],"TJ_information":{"nessCYmess":9.5,"nessPPmess":10}},
 	{"code":"TJ004","name":"日珥镜","ness":["CY","MJ"],"TJ_information":{"nessCYmess":3.5,"nessPPmess":2}},
 	{"code":"TJ005","name":"缺配件小黑","ness":["CY","MJ","PH1.25","PH2","PX"],"warning":["缺配件，不能使用"],"TJ_information":{"nessCYmess":6,"nessPPmess":5}},
@@ -68,7 +68,7 @@
 		"code":"CY502","name":"AVX","provide":["CY"],"ness":["PBAVX","PSAVX","PF"],"warning":["记得电线带锁","该赤道仪手柄在C8箱中"],
 		"new_package":{"TJ_judge":1,"PP_judge":1,"DC_judge":1},
 		"TJ_information":{"CY_maxprovidmess":13.5},
-		"DC_information":{"EQPort":"AVX","nessCurrent":0.6,"maxNessCurrent":1}
+		"DC_information":{"EQPort":"AVX","nessCurrent":0.6,"maxNessCurrent":1.0}
 	},
 	{
 		"code":"CY503","name":"Smart EQ","provide":["CY"],"ness":["PBSmartEQ","PSSmartEQ","PFSmartEQ"],
@@ -179,13 +179,13 @@
 
 	{"code":"DC201","type":"AncestorDC","name":"DJI Power 500","warning":["检查电池电量"]},
 
-	{"code":"DQ001","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2}},
-	{"code":"DQ002","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2}},
-	{"code":"DQ003","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2}},
-	{"code":"DQ004","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2}},
-	{"code":"DQ005","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2}},
-	{"code":"DQ006","type":"DC","name":"5521，12V/5A充电器","DC_information":{"DCPort":"5521","maxCurrent":5}},
-	{"code":"DQ006","type":"DC","name":"5521，12V/5A充电器","DC_information":{"DCPort":"5521","maxCurrent":5}},
+	{"code":"DQ001","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2.0}},
+	{"code":"DQ002","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2.0}},
+	{"code":"DQ003","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2.0}},
+	{"code":"DQ004","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2.0}},
+	{"code":"DQ005","type":"DC","name":"5521，12V/2A充电器","DC_information":{"DCPort":"5521","maxCurrent":2.0}},
+	{"code":"DQ006","type":"DC","name":"5521，12V/5A充电器","DC_information":{"DCPort":"5521","maxCurrent":5.0}},
+	{"code":"DQ006","type":"DC","name":"5521，12V/5A充电器","DC_information":{"DCPort":"5521","maxCurrent":5.0}},
 	{"code":"DQ101","type":"DC","name":"5525，15V充电器","DC_information":{"DCPort":"5525"},"disable":1},
 
 
@@ -268,8 +268,8 @@
 	{"code":"XJ002","name":"QHY5II178M(黑白)","provide":["XXXJ"]},
 	{"code":"XJ003","name":"EOS60D(单反)","provide":["XJ"]},
 	{"code":"XJ004","name":"ASI678MC(彩色)","provide":["XXXJ"]},
-	{"code":"XJ501","name":"ASI1600MM(黑白)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3}},
-	{"code":"XJ502","name":"ASI533MC(彩色)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3}},
+	{"code":"XJ501","name":"ASI1600MM(黑白)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3.0}},
+	{"code":"XJ502","name":"ASI533MC(彩色)","provide":["XJ"],"DC_information":{"EQPort":"5521","nessCurrent":1.8,"maxNessCurrent":3.0}},
 
 
 
