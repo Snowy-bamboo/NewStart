@@ -1,0 +1,20 @@
+[
+    {
+        "code":"SL000","name":"示例器材","type":"示例类型","warning":"示例提示信息","disable":false,
+        "connectionInformation":
+        [
+            {"interfaceType":"示例接口类型","deviceType":"示例设备类型","ness":"nessary"},
+            {"interfaceType":"示例接口类型","deviceType":"示例设备类型","ness":"provided"},
+            {"interfaceType":"示例接口类型","deviceType":"示例设备类型","ness":"optional"}
+        ],
+        "electInformation":
+        [
+            {"interfaceType":{"size":"5525","type":"公"},"direction":"out","limit":{"minCurrent":"对齐用","maxCurrent":"该接口的最大输出电流"}},
+            {"interfaceType":{"size":"5525","type":"母"},"direction":"in","limit":{"minCurrent":"最小工作电流","maxCurrent":"最大工作电流（防潮垫）最大输入电流即最大输出电流（盒子/赤道仪）"}}
+        ],
+        "USBInformation":
+        [
+            {"interfaceType":"USA-A","setification":"3.0"}
+        ]
+    }
+]
